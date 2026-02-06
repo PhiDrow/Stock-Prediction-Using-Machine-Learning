@@ -12,12 +12,5 @@ Users can visualize stock trends and prediction results through a Streamlit-base
 - Model training using Deep Learning (LSTM)
 - Prediction and visualization using Streamlit
 
-## Tech Stack
-- Python  
-- Pandas & NumPy  
-- TensorFlow / Keras  
-- Streamlit  
-- Plotly  
-- Google Colab (model training)
 
 
