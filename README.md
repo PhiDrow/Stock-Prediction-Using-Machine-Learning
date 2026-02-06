@@ -20,4 +20,4 @@ Users can visualize stock trends and prediction results through a Streamlit-base
 - Plotly  
 - Google Colab (model training)
 
-## 📂 Project Structure
+
